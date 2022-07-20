@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sinsinful
-- 👀 I’m interested in python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Kieran.
+- 👀 I’m interested in Python, Java, SQL and all things code realted.
+- 🌱 I’m currently doing a BSc (Honours) Computing and IT specialising in software development.
+- 💞️ I’m looking to collaborate on anyhting Python or Java related!
 - 📫 How to reach me ...
 
 <!---

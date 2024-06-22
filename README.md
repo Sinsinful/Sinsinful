@@ -5,7 +5,7 @@
 - 📫 email me at sin_1210[at]hotmail.com
 
 - Current Tech Stack
-- [![My Skills](https://skillicons.dev/icons?i=js,html, css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!---
 Sinsinful/Sinsinful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

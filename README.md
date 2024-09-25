@@ -5,7 +5,7 @@
 <div id="about">
 <h1>About me...</h1>
 <p>- 👋 Hi, I’m Kieran.</p>
-<p>- 👀 I’m interested in Python, Java, SQL, Django and all things code related.</p>
+<p>- 👀 I’m interested in Python, Java, SQL, Django, GDScript and game development.</p>
 <p>- 🌱 OU graduate with a BSc (Honours) Computing and IT specialising in Software Development.</p>
 <p>- 💞️ Looking to collaborate on anything Python or Java related!</p>
 <p>- 📫 email me at sin_1210[at]hotmail.com</p>
@@ -17,7 +17,7 @@
 </div>
 
 <div id="header">
-<h1>Currently experimenting with: </h1>
+<h1>Currently Experimenting With: </h1>
 
 [![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
 </div>

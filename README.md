@@ -15,6 +15,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,js,aws)](https://skillicons.dev)
 </div>
+
+<h1>Currently experimenting with: </h1>
+[![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
+
 <!---
 Sinsinful/Sinsinful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -17,9 +17,9 @@
 </div>
 
 <div id="header">
-<h1>Current Tech Stack</h1>
+<h1>Currently experimenting with: </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,js,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
 </div>
 
 <!---

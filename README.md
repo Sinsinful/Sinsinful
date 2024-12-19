@@ -8,7 +8,6 @@
 <p>- 👀 I’m interested in Python, Java, SQL, Django, GDScript and game development.</p>
 <p>- 🌱 OU graduate with a BSc (Honours) Computing and IT specialising in Software Development.</p>
 <p>- 💞️ Looking to collaborate on anything Python or Java related!</p>
-<p>- 📫 email me at sin_1210[at]hotmail.com</p>
 </div>
 <div id="header">
 <h1>Technologies in My Toolbox</h1>

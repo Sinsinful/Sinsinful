@@ -11,9 +11,9 @@
 <p>- 📫 email me at sin_1210[at]hotmail.com</p>
 </div>
 <div id="header">
-<h1>Current Tech Stack</h1>
+<h1>Technologies in My Toolbox</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,js,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,js,aws,java,spring,react,bootstrap,mysql,ableton,github,html,css,idea,ps,postgres,postman)](https://skillicons.dev)
 </div>
 
 <div id="header">

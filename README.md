@@ -5,9 +5,9 @@
 <div id="about">
 <h1>About me...</h1>
 <p>- 👋 Hi, I’m Kieran.</p>
-<p>- 👀 I’m interested in Python, Java, SQL, Django, GDScript and game development.</p>
+<p>- 👀 I’m interested in Java, SpringBoot, SQL, JavaScript, React, Python,Django, and App development.</p>
 <p>- 🌱 OU graduate with a BSc (Honours) Computing and IT specialising in Software Development.</p>
-<p>- 💞️ Looking to collaborate on anything Python or Java related!</p>
+<p>- 💞️ Looking to collaborate on anything Java Spring Boot related!</p>
 </div>
 <div id="header">
 <h1>Technologies in My Toolbox</h1>
